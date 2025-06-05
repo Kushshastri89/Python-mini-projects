@@ -51,4 +51,4 @@ Automates the Instagram login process using Selenium WebDriver, with secure cred
    
 INSTA_USER=your_username
    
-INSTA_PASS=your_password
+INSTA_PASSWORD=your_password
